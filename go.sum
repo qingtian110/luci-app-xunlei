@@ -1,0 +1,4 @@
+git.cooluc.com/sbwml/go-flagx v0.0.0-20230415114828-0401d3700ab7 h1:f9/2XFJQTypt4LEIL5gjm+pjqe80LC1puj4HVvpe6Kg=
+git.cooluc.com/sbwml/go-flagx v0.0.0-20230415114828-0401d3700ab7/go.mod h1:XzTgaYOuQzpO7cug4qI25z3sm+/RLCkGXZnREvZjQNs=
+github.com/go-chi/chi/v5 v5.0.8 h1:lD+NLqFcAi1ovnVZpsnObHGW4xb4J8lNmoYVfECH1Y0=
+github.com/go-chi/chi/v5 v5.0.8/go.mod h1:DslCQbL2OYiznFReuXYUmQ2hGd1aDpCnlMNITLSKoi8=
